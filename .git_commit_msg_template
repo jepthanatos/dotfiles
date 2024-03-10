@@ -1,0 +1,5 @@
+< type >[ optional scope ]: < description >
+#SUBJECT: ^^^ update subject in the first line |MARK-50
+# Try not to exceed 50 characters
+# FORMAT: [optional scope]:
+# Follow Conventional Commits: https://www.conventionalcommits.org/en/
